@@ -21,9 +21,9 @@ The user interface contains two tabs:
 
 
 ## Get the Form
-[Link:] (https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Line%20Bottle%20Testing%20Form%20-%20Current%20Time_Shiny_Mongo%20(Stable).R)
+[Link]: https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Line%20Bottle%20Testing%20Form%20-%20Current%20Time_Shiny_Mongo%20(Stable).R
 
-_Please download the raw file _
+**Please download the raw file**
 
 
 
