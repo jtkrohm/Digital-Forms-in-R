@@ -1,4 +1,4 @@
-**This GitHub repository (<https://github.com/jtkrohm/Health-Applications>) contains source code for all my custom digital forms.
+**This GitHub repository (<https://github.com/jtkrohm/Digital-Forms-in-R>) contains source code for all my custom digital forms.
 **
 
 
@@ -23,15 +23,15 @@ The user interface contains three tabs:
 ## Get the Form
 [Link] (https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Line%20Bottle%20Testing%20Form%20-%20Current%20Time_Shiny_Mongo%20(Stable).R)
 
-**Please download the raw file**
+```Please download the raw file```
 
 
 
 ## Prerequisites
-The source code requires mongoDB and Rsudio to be installed on the local machine: 
+The source code requires [mongoDB][mongolink] and [Rsudio][Rstudiolink] to be installed on the local machine.
 
- - [RStudio](https://posit.co/download/rstudio-desktop/) 
- - [mongoDB](https://www.mongodb.com/docs/manual/installation/?msockid=21c90a505ee9627631511e555f8563e4#install-mongodb)
+[RStudiolink]:https://posit.co/download/rstudio-desktop/
+[mongolink]: https://www.mongodb.com/docs/manual/installation/?msockid=21c90a505ee9627631511e555f8563e4#install-mongodb
 
 
  # Form: Microbiological Testing
@@ -50,15 +50,15 @@ The user interface contains three tabs:
 ## Get the Form
 [Link] (https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Microbiological%20Testing%20Form%20-%20Shiny_Mongo%20(Stable).R)
 
-**Please download the raw file**
+```Please download the raw file```
 
 
 
 ## Prerequisites
-The source code requires mongoDB and Rsudio to be installed on the local machine: 
+The source code requires [mongoDB][mongolink] and [Rsudio][Rstudiolink] to be installed on the local machine.
 
- - [RStudio](https://posit.co/download/rstudio-desktop/) 
- - [mongoDB](https://www.mongodb.com/docs/manual/installation/?msockid=21c90a505ee9627631511e555f8563e4#install-mongodb)
+[RStudiolink]:https://posit.co/download/rstudio-desktop/
+[mongolink]: https://www.mongodb.com/docs/manual/installation/?msockid=21c90a505ee9627631511e555f8563e4#install-mongodb
 
 
 
@@ -78,12 +78,12 @@ The user interface contains three tabs:
 ## Get the Form
 [Link] (https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Net%20Content%20Form%20-%20Live%20(Stable).R)
 
-**Please download the raw file**
+```Please download the raw file```
 
 
 
 ## Prerequisites
-The source code requires mongoDB and Rsudio to be installed on the local machine: 
+The source code requires [mongoDB][mongolink] and [Rsudio][Rstudiolink] to be installed on the local machine.
 
- - [RStudio](https://posit.co/download/rstudio-desktop/) 
- - [mongoDB](https://www.mongodb.com/docs/manual/installation/?msockid=21c90a505ee9627631511e555f8563e4#install-mongodb)
+[RStudiolink]:https://posit.co/download/rstudio-desktop/
+[mongolink]: https://www.mongodb.com/docs/manual/installation/?msockid=21c90a505ee9627631511e555f8563e4#install-mongodb
