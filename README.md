@@ -14,10 +14,10 @@ information into an integrated document database using mongoDB
 This form is optimised for beverage manufacturing.
 The user interface contains three tabs:
 
- - **first tab**: displays data entry with fields such as time, bottle size, fill height and weight
- - **second tab**: Displays a table with the most recent form entries 
+ - **First tab**: displays data entry with fields such as time, bottle size, fill height and weight
+ - **Second tab**: Displays a table with the most recent form entries 
  that have been saved
- - **third tab**: Displays a graph which shows the variation of a single bottle metric using information from all the form entries
+ - **Third tab**: Displays a graph which shows the variation of a single bottle metric using information from all the form entries
 
 
 ## Get the Form
