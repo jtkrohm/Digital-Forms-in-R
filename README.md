@@ -9,7 +9,9 @@ information into an integrated document database using mongoDB
 
 # Form: Line Bottle Testing
 
-<img src="/img/line_test_scrsht.jpeg" width="128" height="128" alt="line-bottle-testing" align="right" />
+ ![screenshot](/img/line_test_scrsht.jpeg)
+
+<img src="/img/line_test_scrsht.jpeg" width="512" height="512" alt="line-bottle-testing" align="right" />
 
 This form is optimised for beverage manufacturing.
 The user interface contains three tabs:
@@ -36,7 +38,9 @@ The source code requires [mongoDB][mongolink] and [Rsudio][Rstudiolink] to be in
 
  # Form: Microbiological Testing
 
-<img src="/images/micro_form.png" width="128" height="128" alt="microbiological-bottle-testing" align="right" />
+
+
+<img src="/images/micro_form.png" width="512" height="52" alt="microbiological-bottle-testing" align="right" />
 
 This form is optimised for microbial testing in beverage manufacturing.
 The user interface contains three tabs:
