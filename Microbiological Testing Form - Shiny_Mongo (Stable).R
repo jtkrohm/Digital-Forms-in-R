@@ -1,6 +1,8 @@
 library(shiny)
 library(lubridate)
 library(ggplot2)
+library(plotly)
+library(openxlsx)
 library(mongolite)
 
 
