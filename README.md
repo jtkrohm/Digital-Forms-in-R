@@ -40,8 +40,7 @@ The source code requires [mongoDB][mongolink] and [Rsudio][Rstudiolink] to be in
  # Form: Microbiological Testing
 
 
-
-<img src="/images/micro_form.png" width="512" height="52" alt="microbiological-bottle-testing" align="right" />
+![screenshot](img/micro_assesment_form_scrsht.jpeg)
 
 This form is optimised for microbial testing in beverage manufacturing.
 The user interface contains three tabs:
