@@ -11,6 +11,8 @@ information into an integrated document database using mongoDB
 
  ![screenshot](/img/line_test_scrsht.jpeg)
 
+ ![screenshot](/img/line_bottling_form_plot_scrsht.jpeg)
+
 
 This form is optimised for beverage manufacturing.
 The user interface contains three tabs:
