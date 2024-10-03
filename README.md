@@ -11,7 +11,6 @@ information into an integrated document database using mongoDB
 
  ![screenshot](/img/line_test_scrsht.jpeg)
 
-<img src="/img/line_test_scrsht.jpeg" width="512" height="512" alt="line-bottle-testing" align="right" />
 
 This form is optimised for beverage manufacturing.
 The user interface contains three tabs:
