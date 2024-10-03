@@ -7,25 +7,21 @@ information into an integrated document database using mongoDB
 
 
 
-
-
-
-
 # Form: Line Bottle Testing
 
-<img src="/images/line_form.png" width="128" height="128" alt="line-bottle-testing" align="right" />
+<img src="/img/line_test_scrsht.jpeg" width="128" height="128" alt="line-bottle-testing" align="right" />
 
 This form is optimised for beverage manufacturing.
 The user interface contains three tabs:
 
- - **First tab**: displays data entry with fields such as time, bottle size, fill height and weight
- - **Second tab**: Displays a table with the most recent form entries 
+ - **first tab**: displays data entry with fields such as time, bottle size, fill height and weight
+ - **second tab**: Displays a table with the most recent form entries 
  that have been saved
- - **Third tab**: Displays a graph which shows the variation of a single bottle metric using information from all the form entries
+ - **third tab**: Displays a graph which shows the variation of a single bottle metric using information from all the form entries
 
 
 ## Get the Form
-[Link](https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Line%20Bottle%20Testing%20Form%20-%20Current%20Time_Shiny_Mongo%20(Stable).R)
+[Link-Line Bottle Testing](https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Line%20Bottle%20Testing%20Form%20-%20Current%20Time_Shiny_Mongo%20(Stable).R)
 
 ```Please download the raw file```
 
@@ -36,11 +32,6 @@ The source code requires [mongoDB][mongolink] and [Rsudio][Rstudiolink] to be in
 
 [RStudiolink]:https://posit.co/download/rstudio-desktop/
 [mongolink]: https://www.mongodb.com/docs/manual/installation/?msockid=21c90a505ee9627631511e555f8563e4#install-mongodb
-
-
-
-
-
 
 
  # Form: Microbiological Testing
@@ -68,11 +59,6 @@ The source code requires [mongoDB][mongolink] and [Rsudio][Rstudiolink] to be in
 
 [RStudiolink]:https://posit.co/download/rstudio-desktop/
 [mongolink]: https://www.mongodb.com/docs/manual/installation/?msockid=21c90a505ee9627631511e555f8563e4#install-mongodb
-
-
-
-
-
 
 
 
