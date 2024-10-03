@@ -4,6 +4,7 @@ library(plotly)
 library(ggplot2)
 library(dplyr)
 library(lubridate)
+library(mongolite)
 
 
 #Connect to Mongo
