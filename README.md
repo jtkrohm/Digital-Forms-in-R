@@ -53,7 +53,7 @@ The user interface contains three tabs:
 
 
 ## Get the Form
-[Link](https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Microbiological%20Testing%20Form%20-%20Shiny_Mongo%20(Stable).R)
+[Link- Microbial Testing](https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Microbiological%20Testing%20Form%20-%20Shiny_Mongo%20(Stable).R)
 
 ```Please download the raw file```
 
@@ -81,7 +81,7 @@ The user interface contains three tabs:
 
 
 ## Get the Form
-[Link](https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Net%20Content%20Form%20-%20Live%20(Stable).R)
+[Link - Net Conent Digital Form](https://github.com/jtkrohm/Digital-Forms-in-R/blob/main/Net%20Content%20Form%20-%20Live%20(Stable).R)
 
 ```Please download the raw file```
 
