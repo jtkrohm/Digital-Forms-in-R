@@ -1,5 +1,4 @@
-**This GitHub repository (<https://github.com/jtkrohm/Digital-Forms-in-R>) contains source code for all my custom digital forms.
-**
+**This GitHub repository (<https://github.com/jtkrohm/Digital-Forms-in-R>) contains source code for all my custom digital forms.**
 
 
 Each form provides a graphical user interface, and allows users to manually log their
